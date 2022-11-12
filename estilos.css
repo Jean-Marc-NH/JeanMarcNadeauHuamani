@@ -31,7 +31,7 @@ body{
     flex-direction: column;
 }
 .background-header2{
-    background-image: url(https://github.com/Jean-Marc-NH/JeanMarcNadeauHuamani/blob/main/IMG/fondo1.jpg?raw=true);
+    background-image: url('https://github.com/Jean-Marc-NH/JeanMarcNadeauHuamani/blob/main/IMG/fondo1.jpg?raw=true');
     background-size: cover;
     display: flex;
     position: relative;
