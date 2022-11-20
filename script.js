@@ -1,3 +1,9 @@
+
+window.onload = function(){
+    $("#load").fadeOut();
+    $("body").removeClass("hidden");
+}
+
 $(document).ready(function(){
 	var altura = ($('.header').offset().top)/2;
 	$(window).on('scroll', function(){

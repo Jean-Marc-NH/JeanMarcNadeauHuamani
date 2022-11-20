@@ -247,6 +247,7 @@ h3{
     color: var(--color-1);
 }
 .sub-col{
+    text-decoration: none;
     padding: 15px;
     display: flex;
     justify-content: space-around;
